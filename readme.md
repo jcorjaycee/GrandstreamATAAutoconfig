@@ -1,4 +1,7 @@
-# Grandstream ATA Autoconfig
+# This project is for demonstration and education purposes only. For an actually useful tool, please see here:
+https://github.com/seannleckie/GrandstreamATAConfigurator
+
+## Grandstream ATA Autoconfig
 This is a quick and easy AutoHotkey script for configuring an HT7XX or HT8XX ATA over SSH. Why AutoHotkey? Two reasons:
 
 1. Portability
